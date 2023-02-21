@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abd Al Mohaemn Abd Al Wahab
-- 👀 I’m interested in Web and Gaming Development
-- 🌱 I’m currently learning C# and will learn C++ and Java
+- 👀 I’m interested in becoming a dull stack web developer
+- 🌱 I’m currently learning HTML, CSS, and JavaScript also PHP, Ruby on Rails, and Node.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me malmalanmy@gmail.com
 
